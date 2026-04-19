@@ -1,4 +1,4 @@
-# Speech Understanding — Programming Assignment 2
+# Speech Understanding - Programming Assignment 2
 
 > **Robust Code-Switched Transcription and Zero-Shot Cross-Lingual Voice Cloning**
 
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 ## Data Preparation
 
-### Step 1 — Download the lecture segment (automated)
+### Step 1 - Download the lecture segment (automated)
 
 ```bash
 python download_segment.py
@@ -114,9 +114,9 @@ To use a different time window:
 python download_segment.py --start 02:25:00 --end 02:35:00
 ```
 
-### Step 2 — Record your reference voice
+### Step 2 - Record your reference voice
 
-Place **your own 60-second voice recording** (any speech is fine — just reading aloud works) in the root directory named as:
+Place **your own 60-second voice recording** in the root directory named as:
 
 ```
 Myvoice.m4a
