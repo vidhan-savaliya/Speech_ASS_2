@@ -1,0 +1,85 @@
+stochastic
+cepstrum
+mel-frequency cepstral coefficients
+MFCC
+spectrogram
+short-time Fourier transform
+STFT
+filterbank
+hidden Markov model
+HMM
+Viterbi
+Baum-Welch
+connectionist temporal classification
+CTC
+beam search
+attention mechanism
+transformer
+self-attention
+encoder
+decoder
+phoneme
+grapheme
+allophones
+prosody
+intonation
+fundamental frequency
+pitch
+formant
+resonance
+bandwidth
+acoustic model
+language model
+n-gram
+perplexity
+word error rate
+WER
+phoneme error rate
+convolution
+pooling
+recurrent neural network
+LSTM
+GRU
+wav2vec
+speaker embedding
+x-vector
+d-vector
+voice activity detection
+VAD
+endpoint detection
+code switching
+language identification
+multilingual
+distillation
+fine-tuning
+transfer learning
+signal-to-noise ratio
+SNR
+dynamic range compression
+linear prediction
+LPC
+cepstral mean normalization
+mel filterbank
+log-mel
+pitch contour
+energy contour
+duration modeling
+text normalization
+grapheme-to-phoneme
+G2P
+forced alignment
+Montreal Forced Aligner
+MFA
+dynamic time warping
+DTW
+PSOLA
+pitch synchronous
+vocoder
+neural vocoder
+HiFi-GAN
+WaveNet
+WaveGlow
+mel-cepstral distortion
+MCD
+naturalness
+intelligibility

@@ -1,0 +1,440 @@
+{
+  "mfcc": {
+    "english": "MFCC",
+    "hindi": "एमएफसीसी",
+    "marathi": "एमएफसीसी",
+    "definition": "Mel Frequency Cepstral Coefficients — compact representation of the short-term power spectrum of sound"
+  },
+  "spectrogram": {
+    "english": "spectrogram",
+    "hindi": "स्पेक्ट्रोग्राम",
+    "marathi": "स्पेक्ट्रोग्राम",
+    "definition": "Visual representation of signal frequency content over time"
+  },
+  "phoneme": {
+    "english": "phoneme",
+    "hindi": "स्वनिम",
+    "marathi": "स्वनिम",
+    "definition": "Smallest unit of sound that distinguishes meaning"
+  },
+  "acoustic model": {
+    "english": "acoustic model",
+    "hindi": "ध्वनिक मॉडल",
+    "marathi": "ध्वनिक मॉडल"
+  },
+  "language model": {
+    "english": "language model",
+    "hindi": "भाषा मॉडल",
+    "marathi": "भाषा मॉडल"
+  },
+  "cepstrum": {
+    "english": "cepstrum",
+    "hindi": "सेप्स्ट्रम",
+    "marathi": "सेप्स्ट्रम"
+  },
+  "stochastic": {
+    "english": "stochastic",
+    "hindi": "प्रसंभाव्य",
+    "marathi": "संभाव्य"
+  },
+  "neural network": {
+    "english": "neural network",
+    "hindi": "तंत्रिका नेटवर्क",
+    "marathi": "मज्जा जाळे"
+  },
+  "attention mechanism": {
+    "english": "attention mechanism",
+    "hindi": "ध्यान तंत्र",
+    "marathi": "लक्ष यंत्रणा"
+  },
+  "beam search": {
+    "english": "beam search",
+    "hindi": "बीम सर्च",
+    "marathi": "बीम शोध"
+  },
+  "word error rate": {
+    "english": "word error rate",
+    "hindi": "शब्द त्रुटि दर",
+    "marathi": "शब्द चुका दर"
+  },
+  "speaker recognition": {
+    "english": "speaker recognition",
+    "hindi": "वक्ता पहचान",
+    "marathi": "वक्ता ओळख"
+  },
+  "voice activity detection": {
+    "english": "voice activity detection",
+    "hindi": "ध्वनि गतिविधि पहचान",
+    "marathi": "आवाज क्रिया शोध"
+  },
+  "prosody": {
+    "english": "prosody",
+    "hindi": "छंदशास्त्र",
+    "marathi": "स्वरसारणी"
+  },
+  "pitch": {
+    "english": "pitch",
+    "hindi": "स्वर",
+    "marathi": "सूर"
+  },
+  "fundamental frequency": {
+    "english": "fundamental frequency",
+    "hindi": "मूल आवृत्ति",
+    "marathi": "मूल वारंवारता"
+  },
+  "formant": {
+    "english": "formant",
+    "hindi": "फॉर्मेंट",
+    "marathi": "फॉर्मेंट"
+  },
+  "hidden markov model": {
+    "english": "hidden Markov model",
+    "hindi": "गुप्त मार्कोव मॉडल",
+    "marathi": "छुपे मार्कोव मॉडल"
+  },
+  "convolution": {
+    "english": "convolution",
+    "hindi": "संवलन",
+    "marathi": "संवलन"
+  },
+  "recurrent neural network": {
+    "english": "recurrent neural network",
+    "hindi": "आवर्ती तंत्रिका नेटवर्क",
+    "marathi": "पुनरावर्ती मज्जा जाळे"
+  },
+  "encoder": {
+    "english": "encoder",
+    "hindi": "एनकोडर",
+    "marathi": "कूटबद्धक"
+  },
+  "decoder": {
+    "english": "decoder",
+    "hindi": "डिकोडर",
+    "marathi": "उलगडक"
+  },
+  "transformer": {
+    "english": "transformer",
+    "hindi": "ट्रांसफॉर्मर",
+    "marathi": "रूपांतरक"
+  },
+  "self-attention": {
+    "english": "self-attention",
+    "hindi": "स्व-ध्यान",
+    "marathi": "स्व-लक्ष"
+  },
+  "fine-tuning": {
+    "english": "fine-tuning",
+    "hindi": "सूक्ष्म-समायोजन",
+    "marathi": "सूक्ष्म जुळवणी"
+  },
+  "transfer learning": {
+    "english": "transfer learning",
+    "hindi": "अंतरण अधिगम",
+    "marathi": "हस्तांतरण शिक्षण"
+  },
+  "mel filterbank": {
+    "english": "mel filterbank",
+    "hindi": "मेल फ़िल्टरबैंक",
+    "marathi": "मेल गाळणी गट"
+  },
+  "short-time fourier transform": {
+    "english": "short-time Fourier transform",
+    "hindi": "लघु-काल फ़ूरियर रूपान्तरण",
+    "marathi": "अल्प-काल फुरिये रूपांतरण"
+  },
+  "dynamic time warping": {
+    "english": "dynamic time warping",
+    "hindi": "गतिशील समय विकृति",
+    "marathi": "गतिशील वेळ वक्रता"
+  },
+  "speaker embedding": {
+    "english": "speaker embedding",
+    "hindi": "वक्ता संस्थापन",
+    "marathi": "वक्ता अंत:स्थापना"
+  },
+  "voice cloning": {
+    "english": "voice cloning",
+    "hindi": "आवाज क्लोनिंग",
+    "marathi": "आवाज प्रतिकृती"
+  },
+  "text-to-speech": {
+    "english": "text-to-speech",
+    "hindi": "पाठ-से-वाक्",
+    "marathi": "मजकूर-ते-भाषण"
+  },
+  "speech recognition": {
+    "english": "speech recognition",
+    "hindi": "वाक् पहचान",
+    "marathi": "भाषण ओळख"
+  },
+  "language identification": {
+    "english": "language identification",
+    "hindi": "भाषा पहचान",
+    "marathi": "भाषा ओळख"
+  },
+  "code switching": {
+    "english": "code switching",
+    "hindi": "कोड स्विचिंग",
+    "marathi": "संकेत परिवर्तन"
+  },
+  "signal to noise ratio": {
+    "english": "signal-to-noise ratio",
+    "hindi": "संकेत-से-शोर अनुपात",
+    "marathi": "संकेत ध्वनी गुणोत्तर"
+  },
+  "mel cepstral distortion": {
+    "english": "mel cepstral distortion",
+    "hindi": "मेल सेप्स्ट्रल विरूपण",
+    "marathi": "मेल सेप्स्ट्रल विकृती"
+  },
+  "equal error rate": {
+    "english": "equal error rate",
+    "hindi": "समान त्रुटि दर",
+    "marathi": "समान चूक दर"
+  },
+  "anti-spoofing": {
+    "english": "anti-spoofing",
+    "hindi": "धोखाधड़ी विरोधी",
+    "marathi": "बनावट विरोधी"
+  },
+  "adversarial": {
+    "english": "adversarial",
+    "hindi": "प्रतिकूल",
+    "marathi": "विरोधी"
+  },
+  "perturbation": {
+    "english": "perturbation",
+    "hindi": "विक्षोभ",
+    "marathi": "विक्षेप"
+  },
+  "gradient": {
+    "english": "gradient",
+    "hindi": "प्रवणता",
+    "marathi": "उतार"
+  },
+  "classification": {
+    "english": "classification",
+    "hindi": "वर्गीकरण",
+    "marathi": "वर्गीकरण"
+  },
+  "regression": {
+    "english": "regression",
+    "hindi": "प्रतिगमन",
+    "marathi": "प्रतिगमन"
+  },
+  "convolutional neural network": {
+    "english": "convolutional neural network",
+    "hindi": "संवलन तंत्रिका नेटवर्क",
+    "marathi": "संवलनी मज्जा जाळे"
+  },
+  "batch normalization": {
+    "english": "batch normalization",
+    "hindi": "बैच सामान्यीकरण",
+    "marathi": "गट मानकीकरण"
+  },
+  "dropout": {
+    "english": "dropout",
+    "hindi": "ड्रॉपआउट",
+    "marathi": "वगळणे"
+  },
+  "learning rate": {
+    "english": "learning rate",
+    "hindi": "अधिगम दर",
+    "marathi": "शिक्षण दर"
+  },
+  "epoch": {
+    "english": "epoch",
+    "hindi": "युग",
+    "marathi": "युग"
+  },
+  "loss function": {
+    "english": "loss function",
+    "hindi": "हानि फलन",
+    "marathi": "हानी कार्य"
+  },
+  "cross entropy": {
+    "english": "cross entropy",
+    "hindi": "क्रॉस एन्ट्रॉपी",
+    "marathi": "क्रूस एन्ट्रोपी"
+  },
+  "softmax": {
+    "english": "softmax",
+    "hindi": "सॉफ्टमैक्स",
+    "marathi": "सॉफ्टमॅक्स"
+  },
+  "embedding": {
+    "english": "embedding",
+    "hindi": "संस्थापन",
+    "marathi": "अंत:स्थापना"
+  },
+  "tokenizer": {
+    "english": "tokenizer",
+    "hindi": "टोकनाइज़र",
+    "marathi": "टोकनकर्ता"
+  },
+  "vocabulary": {
+    "english": "vocabulary",
+    "hindi": "शब्द भंडार",
+    "marathi": "शब्दसंग्रह"
+  },
+  "perplexity": {
+    "english": "perplexity",
+    "hindi": "जटिलता",
+    "marathi": "गुंतागुंत"
+  },
+  "n-gram": {
+    "english": "n-gram",
+    "hindi": "एन-ग्राम",
+    "marathi": "एन-ग्राम"
+  },
+  "smoothing": {
+    "english": "smoothing",
+    "hindi": "चिकनाई",
+    "marathi": "सुरळीतपणा"
+  },
+  "viterbi": {
+    "english": "Viterbi",
+    "hindi": "विटर्बी",
+    "marathi": "विटर्बी"
+  },
+  "forced alignment": {
+    "english": "forced alignment",
+    "hindi": "बाध्य संरेखण",
+    "marathi": "सक्तीचे संरेखन"
+  },
+  "vocoder": {
+    "english": "vocoder",
+    "hindi": "वोकोडर",
+    "marathi": "वोकोडर"
+  },
+  "waveform": {
+    "english": "waveform",
+    "hindi": "तरंग रूप",
+    "marathi": "तरंग रूप"
+  },
+  "sampling rate": {
+    "english": "sampling rate",
+    "hindi": "नमूनाकरण दर",
+    "marathi": "नमुना दर"
+  },
+  "frequency": {
+    "english": "frequency",
+    "hindi": "आवृत्ति",
+    "marathi": "वारंवारता"
+  },
+  "amplitude": {
+    "english": "amplitude",
+    "hindi": "आयाम",
+    "marathi": "आयाम"
+  },
+  "noise": {
+    "english": "noise",
+    "hindi": "शोर",
+    "marathi": "आवाज"
+  },
+  "reverb": {
+    "english": "reverberation",
+    "hindi": "प्रतिध्वनि",
+    "marathi": "प्रतिध्वनी"
+  },
+  "dereverberation": {
+    "english": "dereverberation",
+    "hindi": "प्रतिध्वनि निष्कासन",
+    "marathi": "प्रतिध्वनी काढणे"
+  },
+  "low resource language": {
+    "english": "low-resource language",
+    "hindi": "अल्प-संसाधन भाषा",
+    "marathi": "अल्प-स्रोत भाषा"
+  },
+  "multilingual": {
+    "english": "multilingual",
+    "hindi": "बहुभाषी",
+    "marathi": "बहुभाषिक"
+  },
+  "translation": {
+    "english": "translation",
+    "hindi": "अनुवाद",
+    "marathi": "भाषांतर"
+  },
+  "grapheme": {
+    "english": "grapheme",
+    "hindi": "लिखित इकाई",
+    "marathi": "लिपी एकक"
+  },
+  "G2P": {
+    "english": "grapheme to phoneme",
+    "hindi": "लिपि से स्वनिम",
+    "marathi": "लिपी ते स्वनिम"
+  },
+  "IPA": {
+    "english": "International Phonetic Alphabet",
+    "hindi": "अंतर्राष्ट्रीय ध्वन्यात्मक वर्णमाला",
+    "marathi": "आंतरराष्ट्रीय ध्वनिलिपी"
+  },
+  "alignment": {
+    "english": "alignment",
+    "hindi": "संरेखण",
+    "marathi": "संरेखन"
+  },
+  "segmentation": {
+    "english": "segmentation",
+    "hindi": "विभाजन",
+    "marathi": "विभाजन"
+  },
+  "utterance": {
+    "english": "utterance",
+    "hindi": "उच्चारण",
+    "marathi": "उच्चार"
+  },
+  "duration": {
+    "english": "duration",
+    "hindi": "अवधि",
+    "marathi": "कालावधी"
+  },
+  "intonation": {
+    "english": "intonation",
+    "hindi": "स्वराघात",
+    "marathi": "स्वरावृत्ती"
+  },
+  "stress": {
+    "english": "stress",
+    "hindi": "बल",
+    "marathi": "जोर"
+  },
+  "synthesis": {
+    "english": "synthesis",
+    "hindi": "संश्लेषण",
+    "marathi": "संश्लेषण"
+  },
+  "naturalness": {
+    "english": "naturalness",
+    "hindi": "स्वाभाविकता",
+    "marathi": "नैसर्गिकता"
+  },
+  "intelligibility": {
+    "english": "intelligibility",
+    "hindi": "बोधगम्यता",
+    "marathi": "सुगमता"
+  },
+  "zero-shot": {
+    "english": "zero-shot",
+    "hindi": "शून्य-उदाहरण",
+    "marathi": "शून्य-उदाहरण"
+  },
+  "cross-lingual": {
+    "english": "cross-lingual",
+    "hindi": "पार-भाषा",
+    "marathi": "आंतरभाषिक"
+  },
+  "x-vector": {
+    "english": "x-vector",
+    "hindi": "एक्स-वेक्टर",
+    "marathi": "एक्स-सदिश"
+  },
+  "d-vector": {
+    "english": "d-vector",
+    "hindi": "डी-वेक्टर",
+    "marathi": "डी-सदिश"
+  }
+}

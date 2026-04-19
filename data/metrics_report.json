@@ -1,0 +1,14 @@
+{
+  "lid_f1": 0.9474,
+  "english_token_count": 0,
+  "hindi_token_count": 33,
+  "mcd": "8.689976",
+  "flat_mcd": "8.65823",
+  "warped_mcd": "8.689976",
+  "improvement_db": "-0.03174591",
+  "eer": 0.1667,
+  "fgsm_success": true,
+  "best_epsilon": 0.0001268961003167922,
+  "fgsm_snr": 77.72782802581787,
+  "elapsed_s": 158.1
+}

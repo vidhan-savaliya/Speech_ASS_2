@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# LaTeX Build
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.pdf.bak
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Submission/Local Data
+*.zip
+data/tmp_tts.wav
+scratch/
+
+# OS
+.DS_Store
+Thumbs.db
